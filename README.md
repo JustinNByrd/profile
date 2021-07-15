@@ -1,7 +1,5 @@
-# profile
-Justin's Profile
+# Profile
 
-## About
 This is my profile where I showcase my work and provide means of contacting me.
 
 ## Deployment
